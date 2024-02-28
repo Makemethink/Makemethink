@@ -14,8 +14,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Makemethink" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Makemethink" /> </a>
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Makemethink&layout=compact&langs_count=8&card_width=320" />
+  <img style="padding:10px" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Makemethink&layout=compact&langs_count=8&card_width=320" />
 </a>
