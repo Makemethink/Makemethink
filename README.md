@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swami!</h1>
+<h1 align="center">👋 Hi, I'm Swami!</h1>
 
 👩🏻‍💻 Software Engineer
 
@@ -19,10 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Makemethink&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=Makemethink&icon=8&color=4)](https://visitcount.itsvg.in) 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) 
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/secretlynow) 
