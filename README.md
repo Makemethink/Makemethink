@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Swami!</h1>
 
-👩🏻‍💻 Software Engineer
+👩🏻‍💻 Software Engineer | Data Engineer
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13635364) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swaminathan-s-67266a19a) 
